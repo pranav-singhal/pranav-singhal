@@ -61,6 +61,23 @@
 
 ###
 
-<p align="left">I'm a full stack blockchain developer, specialized in on-chain agents, defi protocols, and dapps. <br><br>I won the first ever ETH India in 2018. I've built blockchain-powered apps and protocols for dozens of teams.<br><br>I'm one of the leaders of https://recursive.so, a development agency helping startups ship crypto and ai products.<br><br>I spend my free time teaching other devs at https://www.dblocked.io/, my developer education nonprofit with over 200 students.</p>
+<p align="left">
+  <img src="https://www.recursive.so/_next/image?url=%2Fimages%2Fpranav-glow.png&w=2048&q=75" alt="Recursive.so" width="200">
+</p>
 
-###
+<p align="left">
+  <a href="https://recursive.so">
+    <img src="https://www.recursive.so/_next/image?url=%2Fimages%2Frecursive-logo.png&w=1080&q=75" alt="Recursive.so" width="150">
+  </a>
+</p>
+
+
+
+I specialize in **on-chain agents, DeFi protocols, and dApps**.  
+
+🏆 I won the **first-ever ETH India** in 2018.  
+🚀 I've built **blockchain-powered apps and protocols** for dozens of teams.  
+⚡ I'm one of the leaders of  <a href="https://recursive.so" style="display: inline;"> Recursive Studios </a> a development agency helping startups ship **crypto** and **AI** products.  
+📚 In my free time, I teach other devs at <a href="https://dblocked.io" style="display: inline;"> DBlockEd </a>  my **developer education nonprofit** with over **200 students**.  
+
+Let's build the future of Web3! 🔥
