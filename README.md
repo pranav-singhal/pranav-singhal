@@ -61,6 +61,6 @@
 
 ###
 
-<p align="left">I'm a full stack blockchain developer, specialized in on-chain agents, defi protocols, and dapps. <br><br>I won the first ever ETH India in 2018. I've built blockchain-powered apps and protocols for dozens of teams.<br><br>I'm one of the leaders of [Recursive Studio](https://recursive.so), a development agency helping startups ship crypto and ai products.<br><br>I spend my free time teaching other devs at [DBlockEd](https://www.dblocked.io/), my developer education nonprofit with over 200 students.</p>
+<p align="left">I'm a full stack blockchain developer, specialized in on-chain agents, defi protocols, and dapps. <br><br>I won the first ever ETH India in 2018. I've built blockchain-powered apps and protocols for dozens of teams.<br><br>I'm one of the leaders of https://recursive.so, a development agency helping startups ship crypto and ai products.<br><br>I spend my free time teaching other devs at https://www.dblocked.io/, my developer education nonprofit with over 200 students.</p>
 
 ###
