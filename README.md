@@ -1,14 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pranav and I'm a Founder, mentor and full stack developer</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-singhal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://www.recursive.so/_next/image?url=%2Fimages%2Fpranav-glow.png&w=2048&q=75"  />
+<h2 align="left">Hi 👋! My name is Pranav and I'm a Forward Deployed Engineer</h2>
 
 ###
 
@@ -62,21 +52,19 @@
 ###
 
 <p align="left">
-  <a href="https://recursive.so">
-    <img src="https://www.recursive.so/_next/image?url=%2Fimages%2Frecursive-logo.png&w=1080&q=75" alt="Recursive.so" width="150">
+  <a href="https://buildwithhyde.com">
+    <strong>🧠 Hyde — Own your intelligence</strong>
   </a>
 </p>
 
 
 
-I specialize in **on-chain agents, DeFi protocols, and dApps**.  
+I specialize in **deploying AI agents in enterprise contexts** and **building scalable automations for code migrations and database migrations**.
 
-🏆 I won the **first-ever ETH India** in 2018.  
+🏆 I won the **first-ever ETH India** in 2018.
 
-🚀 I've built **blockchain-powered apps and protocols** for dozens of teams.  
+🚀 I've built and deployed **AI-powered systems** for enterprise teams across industries.
 
-⚡ I'm one of the leaders of  <a href="https://recursive.so" style="display: inline;"> Recursive Studios </a>, a development agency helping startups ship **crypto** and **AI** products.
+⚡ I currently work at <a href="https://buildwithhyde.com" style="display: inline;"> Hyde </a> — the training and inference platform for enterprise specialist models that outperform the frontier. Hyde partners with enterprises to turn their data and expertise into reasoning engines.
 
-📚 In my free time, I teach other devs at <a href="https://dblocked.io" style="display: inline;"> DBlockEd </a>, my **developer education nonprofit** with over **200 students**.  
-
-Let's build the future of Web3! 🔥
+Let's build the future of enterprise AI! 🔥
